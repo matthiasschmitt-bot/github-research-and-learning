@@ -155,7 +155,3 @@ kurze, klare Erklärungen
 Beispiele in README einbauen
 
 ------------------------------------------------------------------------------
-
-kurze, klare Erklärungen
-
-Beispiele in README einbauen
